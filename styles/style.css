@@ -1,0 +1,24 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+
+#login {
+	display: none;
+	background: #bbb;
+	border: 1px solid red;
+	width: 500px;
+}
+
+#register {
+	display: none;
+	background: #bbb;
+	border: 1px solid blue;
+	width: 500px;
+}
+
+#canvas {
+	width: 500px;
+	height: 500px;
+	border: 1px solid green;
+}
